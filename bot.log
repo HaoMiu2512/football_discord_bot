@@ -1,0 +1,146 @@
+2026-01-13 16:56:04,562 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 16:56:04,562 - discord.client - INFO - logging in using static token
+2026-01-13 16:56:06,289 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c4592198f0202482a9a1d497a3dd8614).
+2026-01-13 16:56:08,305 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 16:56:08,307 - src.bot.discord_bot - WARNING - DISCORD_CHANNEL_ID not set. Notification task will not start.
+2026-01-13 16:56:34,614 - __main__ - INFO - Bot stopped by user.
+2026-01-13 16:58:52,688 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 16:58:52,688 - discord.client - INFO - logging in using static token
+2026-01-13 16:58:54,320 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b719c09a3f6c8a5dc51554f3a861051c).
+2026-01-13 16:58:56,333 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 16:58:56,333 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 16:59:23,564 - __main__ - INFO - Bot stopped by user.
+2026-01-13 16:59:38,725 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 16:59:38,726 - discord.client - INFO - logging in using static token
+2026-01-13 16:59:40,264 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fa211b41d263a137fe5ebf866ffdc2b3).
+2026-01-13 16:59:42,270 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 16:59:42,271 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:01:26,381 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:02:47,500 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:02:47,500 - discord.client - INFO - logging in using static token
+2026-01-13 17:02:48,480 - src.bot.discord_bot - INFO - Loaded extension: src.bot.cogs.football_commands
+2026-01-13 17:02:49,390 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ecf6592521ee333bf76e9ed85394ed85).
+2026-01-13 17:02:51,443 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:02:51,444 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:03:02,709 - src.bot.discord_bot - ERROR - Command error: Command "match" is not found
+2026-01-13 17:03:19,583 - src.bot.discord_bot - ERROR - Command error: Command "matchs" is not found
+2026-01-13 17:07:11,947 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:07:14,215 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:07:14,215 - discord.client - INFO - logging in using static token
+2026-01-13 17:07:15,129 - src.bot.discord_bot - ERROR - Failed to load extension or sync commands: Extension 'src.bot.cogs.football_commands' raised an error: IndentationError: unexpected indent (football_commands.py, line 43)
+2026-01-13 17:07:15,951 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7fe14c26c150b2a229b8bbd78f953259).
+2026-01-13 17:07:17,968 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:07:17,970 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:07:32,073 - src.bot.discord_bot - ERROR - Command error: Command "live" is not found
+2026-01-13 17:08:34,566 - src.bot.discord_bot - ERROR - Command error: Command "live" is not found
+2026-01-13 17:09:38,784 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:09:41,566 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:09:41,567 - discord.client - INFO - logging in using static token
+2026-01-13 17:09:42,356 - src.bot.discord_bot - INFO - Loaded extension: src.bot.cogs.football_commands
+2026-01-13 17:09:42,786 - src.bot.discord_bot - INFO - Synced 2 commands globally.
+2026-01-13 17:09:43,549 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 58676ad710ce3a45015e75c7b3bd2436).
+2026-01-13 17:09:45,555 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:09:45,555 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:11:19,555 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:14:06,039 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:14:06,040 - discord.client - INFO - logging in using static token
+2026-01-13 17:14:06,960 - src.bot.discord_bot - INFO - Loaded extension: src.bot.cogs.football_commands
+2026-01-13 17:14:07,394 - src.bot.discord_bot - INFO - Synced 5 commands globally.
+2026-01-13 17:14:08,501 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8ccc13f13f8973704fcf858e2976deca).
+2026-01-13 17:14:10,511 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:14:10,512 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:22:46,643 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:22:50,728 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:22:50,729 - discord.client - INFO - logging in using static token
+2026-01-13 17:22:51,544 - src.bot.discord_bot - INFO - Loaded extension: src.bot.cogs.football_commands
+2026-01-13 17:22:51,997 - src.bot.discord_bot - INFO - Synced 5 commands globally.
+2026-01-13 17:22:52,854 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 537ebeef60f6cda70b1cb3bacfc4ce02).
+2026-01-13 17:22:54,870 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:22:54,871 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:27:36,752 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:27:39,977 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:27:39,978 - discord.client - INFO - logging in using static token
+2026-01-13 17:27:40,812 - src.bot.discord_bot - INFO - Loaded extension: src.bot.cogs.football_commands
+2026-01-13 17:27:41,236 - src.bot.discord_bot - INFO - Synced 9 commands globally.
+2026-01-13 17:27:42,094 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 82b61d35f23039eeba93c274c890032b).
+2026-01-13 17:27:44,114 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:27:44,115 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:29:27,195 - src.bot.discord_bot - ERROR - Command error: person_id is a required argument that is missing.
+2026-01-13 17:31:35,719 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:31:40,134 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:31:40,134 - discord.client - INFO - logging in using static token
+2026-01-13 17:31:40,956 - src.bot.discord_bot - INFO - Loaded extension: src.bot.cogs.football_commands
+2026-01-13 17:31:42,268 - src.bot.discord_bot - INFO - Synced 9 commands globally.
+2026-01-13 17:31:43,372 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 738ee56af39ca5c8d3202f0623ed968e).
+2026-01-13 17:31:45,386 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:31:45,387 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:36:31,399 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:36:34,511 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:36:34,512 - discord.client - INFO - logging in using static token
+2026-01-13 17:36:35,453 - src.bot.discord_bot - INFO - Loaded extension: src.bot.cogs.football_commands
+2026-01-13 17:36:36,087 - src.bot.discord_bot - INFO - Synced 10 commands globally.
+2026-01-13 17:36:36,935 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ecbe5dea606cf8c582a34aa849cb6537).
+2026-01-13 17:36:38,943 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:36:38,944 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:38:21,453 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:38:23,287 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:38:23,287 - discord.client - INFO - logging in using static token
+2026-01-13 17:38:24,274 - src.bot.discord_bot - INFO - Loaded extension: src.bot.cogs.football_commands
+2026-01-13 17:38:24,969 - src.bot.discord_bot - INFO - Synced 11 commands globally.
+2026-01-13 17:38:26,031 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 16867c01d0a656ee488ad971a6a12255).
+2026-01-13 17:38:28,039 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:38:28,040 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:43:05,797 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:44:15,639 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:44:15,639 - discord.client - INFO - logging in using static token
+2026-01-13 17:44:16,392 - src.bot.discord_bot - INFO - Loaded extension: src.bot.cogs.football_commands
+2026-01-13 17:44:16,929 - src.bot.discord_bot - INFO - Synced 11 commands globally.
+2026-01-13 17:44:18,037 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b472ef73b5bb27a143d35d0b8a7a746a).
+2026-01-13 17:44:20,044 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:44:20,045 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:46:20,613 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:46:22,939 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:46:22,940 - discord.client - INFO - logging in using static token
+2026-01-13 17:46:23,836 - src.bot.discord_bot - INFO - Loaded extension: src.bot.cogs.football_commands
+2026-01-13 17:46:24,400 - src.bot.discord_bot - INFO - Synced 11 commands globally.
+2026-01-13 17:46:25,482 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d6e99cf7b4ace6c4d2b4d8c4812efb02).
+2026-01-13 17:46:27,485 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:46:27,486 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:46:34,807 - src.bot.discord_bot - ERROR - Command error: The check functions for command help failed.
+2026-01-13 17:46:46,949 - src.bot.discord_bot - ERROR - Command error: The check functions for command matches failed.
+2026-01-13 17:47:32,450 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:48:14,151 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:48:14,151 - discord.client - INFO - logging in using static token
+2026-01-13 17:48:14,925 - src.bot.discord_bot - INFO - Loaded extension: src.bot.cogs.football_commands
+2026-01-13 17:48:16,990 - src.bot.discord_bot - INFO - Synced 11 commands globally.
+2026-01-13 17:48:17,807 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 918f057c657f60f8f6f4a12ef944f1c9).
+2026-01-13 17:48:19,819 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:48:19,820 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:51:31,093 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:51:33,677 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:51:33,677 - discord.client - INFO - logging in using static token
+2026-01-13 17:51:34,520 - src.bot.discord_bot - ERROR - Failed to load extension or sync commands: Extension 'src.bot.cogs.football_commands' raised an error: CommandRegistrationError: The command today is already an existing command or alias.
+2026-01-13 17:51:35,283 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5004cc7b388c2c3ee49d5dfd224eef8d).
+2026-01-13 17:51:37,291 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:51:37,291 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:51:58,350 - src.bot.discord_bot - ERROR - Command error: Command "team" is not found
+2026-01-13 17:52:08,520 - src.bot.discord_bot - ERROR - Command error: Command "team" is not found
+2026-01-13 17:52:30,794 - src.bot.discord_bot - ERROR - Command error: Command "today\" is not found
+2026-01-13 17:52:34,544 - src.bot.discord_bot - ERROR - Command error: Command "today" is not found
+2026-01-13 17:58:19,285 - __main__ - INFO - Bot stopped by user.
+2026-01-13 17:58:22,719 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 17:58:22,719 - discord.client - INFO - logging in using static token
+2026-01-13 17:58:23,517 - src.bot.discord_bot - ERROR - Failed to load extension or sync commands: Extension 'src.bot.cogs.football_commands' raised an error: CommandRegistrationError: The command today is already an existing command or alias.
+2026-01-13 17:58:24,290 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3563e0fd48a23309676516a64015d297).
+2026-01-13 17:58:26,303 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 17:58:26,304 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 17:58:42,585 - src.bot.discord_bot - ERROR - Command error: Command "help" is not found
+2026-01-13 18:02:14,837 - __main__ - INFO - Bot stopped by user.
+2026-01-13 18:02:18,011 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-13 18:02:18,011 - discord.client - INFO - logging in using static token
+2026-01-13 18:02:19,007 - src.bot.discord_bot - INFO - Loaded extension: src.bot.cogs.football_commands
+2026-01-13 18:02:19,521 - src.bot.discord_bot - INFO - Synced 15 commands globally.
+2026-01-13 18:02:20,339 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8e0d2ba4f7cefc4782f18cf761f05dcf).
+2026-01-13 18:02:22,346 - src.bot.discord_bot - INFO - Logged in as F_Bot#9711 (ID: 1460559141524340881)
+2026-01-13 18:02:22,346 - src.bot.discord_bot - INFO - Starting live score task...
+2026-01-13 18:09:19,651 - __main__ - INFO - Bot stopped by user.
